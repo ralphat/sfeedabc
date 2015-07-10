@@ -1,0 +1,9 @@
+#form {  
+    background: url(../images/formbg.jpg) no-repeat;
+    background-size: 100%;
+}
+
+.form-control{
+	width: 97%;
+	background-image: url();
+}
