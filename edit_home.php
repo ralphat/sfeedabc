@@ -102,6 +102,9 @@ if(isset($_POST['showtable']))
 	}
 ?>
 <style>
+#rondo{
+color: blue;
+}
 #content{
 font-size:14px;
 width:1000px;
@@ -110,9 +113,6 @@ border:solid 1px #000;
 padding:4px;
 position:absolute; overflow:hidden;
  margin-left:0%;top:100%;
-}
-#ritu{
-color:white;
 }
 #posts{
 font-size:14px;
