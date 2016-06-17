@@ -102,6 +102,12 @@ if(isset($_POST['showtable']))
 	}
 ?>
 <style>
+#ritu{
+color: white;
+}
+#aarthi{
+color: black;
+}
 #content{
 font-size:14px;
 width:1000px;
